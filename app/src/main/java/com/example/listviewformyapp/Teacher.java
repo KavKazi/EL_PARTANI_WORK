@@ -2,25 +2,14 @@ package com.example.listviewformyapp;
 import android.graphics.Bitmap;
 
 public class Teacher {
-
-        private int Lvl;
         private String Name;
-        private String Claas;
-        // private Bitmap Bitmap;
+        private String claas;
+        private Bitmap bitmap;
 
-        public Teacher(int lvl, String name, String claas) {
-            Lvl = lvl;
-            Name = name;
-            Claas = claas;
-            // Bitmap = bitmap;
-        }
-
-        public int getLvl() {
-            return Lvl;
-        }
-
-        public void setLvl(int lvl) {
-            this.Lvl = lvl;
+        public Teacher(String name, String claas, Bitmap bitmap) {
+            this.Name = name;
+            this.claas = claas;
+            this.bitmap = bitmap;
         }
 
         public String getName() {
@@ -32,22 +21,22 @@ public class Teacher {
         }
 
         public String getClaas() {
-            return Claas;
+            return claas;
         }
 
         public void setClaas(String claas) {
-            this.Claas = claas;
+            this.claas = claas;
         }
 
-  /*
+
   public android.graphics.Bitmap getBitmap() {
-        return Bitmap;
+        return bitmap;
     }
 
     public void setBitmap(android.graphics.Bitmap bitmap) {
-        this.Bitmap = bitmap;
+        this.bitmap = bitmap;
     }
-    */
+
 
     }
 

@@ -32,13 +32,13 @@ public class TeacherAdapter extends ArrayAdapter<Teacher> {
             View view= layoutInflater.inflate(R.layout.custom_layout,parent,false);
             TextView Tname= (TextView)view.findViewById(R.id.Tname);
             TextView Tclaas= (TextView)view.findViewById(R.id.Tclaas);
-            TextView Tlvl= (TextView)view.findViewById(R.id.Tlvl);
+            //TextView Tlvl= (TextView)view.findViewById(R.id.Tlvl);
             //ImageView Tavatar = (ImageView) view.findViewById(R.id.Tavatar);
 
             Teacher temp = objects.get(position);
 
             // Tavatar.setImageBitmap(temp.getBitmap());
-            Tlvl.setText(String.valueOf(temp.getLvl()));
+            //Tlvl.setText(String.valueOf(temp.getLvl()));
             Tname.setText(temp.getName());
             Tclaas.setText(temp.getClaas());
             return view;
