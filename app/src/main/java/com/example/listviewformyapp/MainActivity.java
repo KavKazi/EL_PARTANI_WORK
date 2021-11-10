@@ -2,6 +2,7 @@ package com.example.listviewformyapp;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.os.Bundle;
@@ -12,6 +13,7 @@ import android.view.View;
 import android.widget.AdapterView;
 import android.widget.GridView;
 import android.widget.ListView;
+import android.widget.Toast;
 
 import java.util.ArrayList;
 
@@ -20,6 +22,9 @@ import java.util.ArrayList;
         ArrayList<Teacher> teachersList;
         TeacherAdapter teacheradapter;
         GridView gridView;
+        ProfessionAdapter professionAdapter;
+        String[]professionsName= {"מתמטיקה ","אנגלית", "עברית ","היסטוריה ","ספרות"};
+        int[]professionImage = {R.drawable.mathbackground,R.drawable.englishbackground,R.drawable.hebrowbackground,R.drawable.safrotbackground,R.drawable.historybackground};
         @Override
         protected void onCreate(Bundle savedInstanceState) {
             super.onCreate(savedInstanceState);
@@ -53,13 +58,20 @@ import java.util.ArrayList;
             lv =(ListView)findViewById(R.id.lv);
             lv.setAdapter(teacheradapter);
             ////select teacher screen is over..
+            gridView = findViewById(R.id.gridView);
 
-            String[]professionsName= {"מתמטיקה ","אנגלית", "עברית ","היסטוריה ","ספרות"};
-            int[]professionImage = {R.drawable.mathbackground,R.drawable.englishbackground,R.drawable.hebrowbackground,R.drawable.safrotbackground,R.drawable.historybackground};
-
-            ProfessionAdapter professionAdapter = new ProfessionAdapter(MainActivity.this,professionsName,professionImage);
+            professionAdapter = new ProfessionAdapter(MainActivity.this,professionsName,professionImage);
             gridView.setAdapter(professionAdapter);
-            gridView.setOnItemClickListener((AdapterView.OnItemClickListener) professionAdapter);
+
+            gridView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+                @Override
+                public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
+                    Toast.makeText(getApplicationContext(),"you cliked"+professionsName[+position],Toast.LENGTH_SHORT).show();
+
+                }
+            });
+
+
 
 
         }
