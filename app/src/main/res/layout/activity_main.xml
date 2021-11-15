@@ -9,18 +9,21 @@
     android:paddingTop="16dp"
     android:id="@+id/listView"
     android:orientation="vertical"
-    tools:context=".MainActivity">
+    tools:context=".MainActivity"
+    android:background="@color/backgroundcolor">
+
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="ListView! Example"/>
+        android:text="ListView! Example"
+        android:textColor="#F8F8F8" />
 
     <ListView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/lv"
-        android:cacheColorHint="@color/black"
+        android:cacheColorHint="@color/white"
         >
 
     </ListView>

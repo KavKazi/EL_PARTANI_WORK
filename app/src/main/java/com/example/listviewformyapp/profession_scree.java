@@ -19,7 +19,7 @@ public class profession_scree extends AppCompatActivity {
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        professionsName= new String[]{"מתמטיקה ", "אנגלית", "עברית ", "היסטוריה ", "ספרות"};
+        professionsName= new String[]{"מתמטיקה ", "אנגלית", "עברית ", "ספרות ", "היסטוריה"};
         professionImage = new int[]{R.drawable.mathbackground, R.drawable.englishbackground,
                 R.drawable.hebrowbackground, R.drawable.safrotbackground, R.drawable.historybackground};
 
@@ -33,7 +33,7 @@ public class profession_scree extends AppCompatActivity {
         gridView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
-                Toast.makeText(getApplicationContext(),"you cliked"+professionsName[+position],Toast.LENGTH_SHORT).show();
+                Toast.makeText(getApplicationContext(),"את/ה לחצה/תה על "+professionsName[+position],Toast.LENGTH_SHORT).show();
                 startActivity(new Intent(profession_scree.this, MainActivity.class));
 
 

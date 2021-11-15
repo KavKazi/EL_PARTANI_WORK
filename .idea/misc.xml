@@ -3,11 +3,18 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/ListViewForMyApp2/app/src/main/res/layout/activity_login_screen.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ListViewForMyApp2/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ListViewForMyApp2/app/src/main/res/layout/activity_sign_up_screen.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ListViewForMyApp2/app/src/main/res/layout/activity_splash_screen.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ListViewForMyApp2/app/src/main/res/layout/custom_layout.xml" value="0.38125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ListViewForMyApp2/app/src/main/res/layout/grid_profession_item.xml" value="0.38125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ListViewForMyApp2/app/src/main/res/layout/professions_screen.xml" value="0.25" />
         <entry key="..\:/androidstudio/app/src/main/res/layout/activity_main.xml" value="0.2604166666666667" />
         <entry key="..\:/androidstudio/app/src/main/res/layout/custom_layout.xml" value="0.27447916666666666" />
         <entry key="..\:/androidstudio/app/src/main/res/layout/grid_profession.xml" value="0.27447916666666666" />
         <entry key="..\:/androidstudio/app/src/main/res/layout/grid_profession_item.xml" value="0.12" />
-        <entry key="..\:/androidstudio/app/src/main/res/layout/professions_screen.xml" value="0.1" />
+        <entry key="..\:/androidstudio/app/src/main/res/layout/professions_screen.xml" value="0.264" />
       </map>
     </option>
   </component>

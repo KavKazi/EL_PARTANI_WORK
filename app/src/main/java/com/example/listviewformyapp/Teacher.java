@@ -12,6 +12,7 @@ public class Teacher {
             this.bitmap = bitmap;
         }
 
+
         public String getName() {
             return Name;
         }

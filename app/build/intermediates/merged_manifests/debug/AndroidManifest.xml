@@ -18,6 +18,16 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.ListViewForMyApp" >
+        <activity
+            android:name="com.example.listviewformyapp.signUpScreen"
+            android:exported="false" />
+        <activity
+            android:name="com.example.listviewformyapp.ui.login.LoginScreen"
+            android:exported="false"
+            android:label="@string/title_activity_login_screen" />
+        <activity
+            android:name="com.example.listviewformyapp.SplashScreen"
+            android:exported="false" />
         <activity android:name="com.example.listviewformyapp.MainActivity" />
         <activity
             android:name="com.example.listviewformyapp.profession_scree"
@@ -28,6 +38,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
     </application>
 
 </manifest>
