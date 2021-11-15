@@ -1,0 +1,15 @@
+com/example/listviewformyapp/TeacherAdapter.java
+ com.example.listviewformyapp.TeacherAdapter
+com/example/listviewformyapp/Teacher.java
+ com.example.listviewformyapp.Teacher
+com/example/listviewformyapp/BuildConfig.java
+ com.example.listviewformyapp.BuildConfig
+com/example/listviewformyapp/ProfessionAdapter.java
+ com.example.listviewformyapp.ProfessionAdapter
+com/example/listviewformyapp/profession_item.java
+ com.example.listviewformyapp.profession_item
+com/example/listviewformyapp/MainActivity.java
+ com.example.listviewformyapp.MainActivity
+com/example/listviewformyapp/profession_scree.java
+ com.example.listviewformyapp.profession_scree
+ com.example.listviewformyapp.profession_scree$1
