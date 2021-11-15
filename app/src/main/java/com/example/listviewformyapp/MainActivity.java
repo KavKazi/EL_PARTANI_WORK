@@ -21,10 +21,7 @@ import java.util.ArrayList;
         ListView lv;
         ArrayList<Teacher> teachersList;
         TeacherAdapter teacheradapter;
-        GridView gridView;
-        ProfessionAdapter professionAdapter;
-        String[]professionsName= {"מתמטיקה ","אנגלית", "עברית ","היסטוריה ","ספרות"};
-        int[]professionImage = {R.drawable.mathbackground,R.drawable.englishbackground,R.drawable.hebrowbackground,R.drawable.safrotbackground,R.drawable.historybackground};
+
         @Override
         protected void onCreate(Bundle savedInstanceState) {
             super.onCreate(savedInstanceState);
@@ -57,22 +54,6 @@ import java.util.ArrayList;
             teacheradapter = new TeacherAdapter(this,0,0,teachersList);
             lv =(ListView)findViewById(R.id.lv);
             lv.setAdapter(teacheradapter);
-            ////select teacher screen is over..
-            gridView = findViewById(R.id.gridView);
-
-            professionAdapter = new ProfessionAdapter(MainActivity.this,professionsName,professionImage);
-            gridView.setAdapter(professionAdapter);
-
-            gridView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
-                @Override
-                public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
-                    Toast.makeText(getApplicationContext(),"you cliked"+professionsName[+position],Toast.LENGTH_SHORT).show();
-
-                }
-            });
-
-
-
 
         }
 
