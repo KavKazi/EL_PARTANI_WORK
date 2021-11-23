@@ -1,158 +1,158 @@
 [
     {
-        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\build\\intermediates\\merged_res\\debug\\font_antic.xml.flat",
-        "source": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\src\\main\\res\\font\\antic.xml"
+        "merged": "C:\\androidstudio\\app\\build\\intermediates\\merged_res\\debug\\anim_bottom_animation.xml.flat",
+        "source": "C:\\androidstudio\\app\\src\\main\\res\\anim\\bottom_animation.xml"
     },
     {
-        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+        "merged": "C:\\androidstudio\\app\\build\\intermediates\\merged_res\\debug\\drawable_teacherpic5.webp.flat",
+        "source": "C:\\androidstudio\\app\\src\\main\\res\\drawable\\teacherpic5.webp"
     },
     {
-        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\androidstudio\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\androidstudio\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "C:\\androidstudio\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\androidstudio\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "C:\\androidstudio\\app\\build\\intermediates\\merged_res\\debug\\drawable_hebrowbackground.jpg.flat",
+        "source": "C:\\androidstudio\\app\\src\\main\\res\\drawable\\hebrowbackground.jpg"
     },
     {
-        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\build\\intermediates\\merged_res\\debug\\drawable_safrotbackground.png.flat",
-        "source": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\src\\main\\res\\drawable\\safrotbackground.png"
+        "merged": "C:\\androidstudio\\app\\build\\intermediates\\merged_res\\debug\\drawable_englishbackground.jpg.flat",
+        "source": "C:\\androidstudio\\app\\src\\main\\res\\drawable\\englishbackground.jpg"
     },
     {
-        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "C:\\androidstudio\\app\\build\\intermediates\\merged_res\\debug\\layout_professions_screen.xml.flat",
+        "source": "C:\\androidstudio\\app\\src\\main\\res\\layout\\professions_screen.xml"
     },
     {
-        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+        "merged": "C:\\androidstudio\\app\\build\\intermediates\\merged_res\\debug\\drawable_teacherpic3.png.flat",
+        "source": "C:\\androidstudio\\app\\src\\main\\res\\drawable\\teacherpic3.png"
     },
     {
-        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\build\\intermediates\\merged_res\\debug\\drawable_teacherpic3.png.flat",
-        "source": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\src\\main\\res\\drawable\\teacherpic3.png"
+        "merged": "C:\\androidstudio\\app\\build\\intermediates\\merged_res\\debug\\drawable_teacherpic2.png.flat",
+        "source": "C:\\androidstudio\\app\\src\\main\\res\\drawable\\teacherpic2.png"
     },
     {
-        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_splash_screen.xml.flat",
-        "source": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+        "merged": "C:\\androidstudio\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_sign_up_screen.xml.flat",
+        "source": "C:\\androidstudio\\app\\src\\main\\res\\layout\\activity_sign_up_screen.xml"
     },
     {
-        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "C:\\androidstudio\\app\\build\\intermediates\\merged_res\\debug\\font_antic.xml.flat",
+        "source": "C:\\androidstudio\\app\\src\\main\\res\\font\\antic.xml"
     },
     {
-        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "C:\\androidstudio\\app\\build\\intermediates\\merged_res\\debug\\drawable_mathbackground.jpg.flat",
+        "source": "C:\\androidstudio\\app\\src\\main\\res\\drawable\\mathbackground.jpg"
     },
     {
-        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\build\\intermediates\\merged_res\\debug\\layout-w936dp_activity_login_screen.xml.flat",
-        "source": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\src\\main\\res\\layout-w936dp\\activity_login_screen.xml"
+        "merged": "C:\\androidstudio\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\androidstudio\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\build\\intermediates\\merged_res\\debug\\drawable_hebrowbackground.jpg.flat",
-        "source": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\src\\main\\res\\drawable\\hebrowbackground.jpg"
+        "merged": "C:\\androidstudio\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\androidstudio\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\androidstudio\\app\\build\\intermediates\\merged_res\\debug\\font_bangers.xml.flat",
+        "source": "C:\\androidstudio\\app\\src\\main\\res\\font\\bangers.xml"
     },
     {
-        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\build\\intermediates\\merged_res\\debug\\drawable_teacherpic6.png.flat",
-        "source": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\src\\main\\res\\drawable\\teacherpic6.png"
+        "merged": "C:\\androidstudio\\app\\build\\intermediates\\merged_res\\debug\\drawable_historybackground.jpg.flat",
+        "source": "C:\\androidstudio\\app\\src\\main\\res\\drawable\\historybackground.jpg"
     },
     {
-        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\build\\intermediates\\merged_res\\debug\\drawable_teacherpic1.png.flat",
-        "source": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\src\\main\\res\\drawable\\teacherpic1.png"
+        "merged": "C:\\androidstudio\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\androidstudio\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\build\\intermediates\\merged_res\\debug\\drawable_historybackground.jpg.flat",
-        "source": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\src\\main\\res\\drawable\\historybackground.jpg"
+        "merged": "C:\\androidstudio\\app\\build\\intermediates\\merged_res\\debug\\layout_grid_profession_item.xml.flat",
+        "source": "C:\\androidstudio\\app\\src\\main\\res\\layout\\grid_profession_item.xml"
     },
     {
-        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "C:\\androidstudio\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\androidstudio\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_login_screen.xml.flat",
-        "source": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\src\\main\\res\\layout\\activity_login_screen.xml"
+        "merged": "C:\\androidstudio\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\androidstudio\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "C:\\androidstudio\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\androidstudio\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\build\\intermediates\\merged_res\\debug\\layout_custom_layout.xml.flat",
-        "source": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\src\\main\\res\\layout\\custom_layout.xml"
+        "merged": "C:\\androidstudio\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\androidstudio\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\build\\intermediates\\merged_res\\debug\\drawable_teacherpic5.webp.flat",
-        "source": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\src\\main\\res\\drawable\\teacherpic5.webp"
+        "merged": "C:\\androidstudio\\app\\build\\intermediates\\merged_res\\debug\\layout_custom_layout.xml.flat",
+        "source": "C:\\androidstudio\\app\\src\\main\\res\\layout\\custom_layout.xml"
     },
     {
-        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\build\\intermediates\\merged_res\\debug\\drawable_englishbackground.jpg.flat",
-        "source": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\src\\main\\res\\drawable\\englishbackground.jpg"
+        "merged": "C:\\androidstudio\\app\\build\\intermediates\\merged_res\\debug\\drawable_safrotbackground.png.flat",
+        "source": "C:\\androidstudio\\app\\src\\main\\res\\drawable\\safrotbackground.png"
     },
     {
-        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\build\\intermediates\\merged_res\\debug\\drawable_mathbackground.jpg.flat",
-        "source": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\src\\main\\res\\drawable\\mathbackground.jpg"
+        "merged": "C:\\androidstudio\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\androidstudio\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\build\\intermediates\\merged_res\\debug\\anim_top_animation.xml.flat",
-        "source": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\src\\main\\res\\anim\\top_animation.xml"
+        "merged": "C:\\androidstudio\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\androidstudio\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\build\\intermediates\\merged_res\\debug\\layout_grid_profession_item.xml.flat",
-        "source": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\src\\main\\res\\layout\\grid_profession_item.xml"
+        "merged": "C:\\androidstudio\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\androidstudio\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\build\\intermediates\\merged_res\\debug\\anim_bottom_animation.xml.flat",
-        "source": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\src\\main\\res\\anim\\bottom_animation.xml"
+        "merged": "C:\\androidstudio\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\androidstudio\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\build\\intermediates\\merged_res\\debug\\drawable_teacherpic4.png.flat",
-        "source": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\src\\main\\res\\drawable\\teacherpic4.png"
+        "merged": "C:\\androidstudio\\app\\build\\intermediates\\merged_res\\debug\\drawable_allschoolsubjects.jpg.flat",
+        "source": "C:\\androidstudio\\app\\src\\main\\res\\drawable\\allschoolsubjects.jpg"
     },
     {
-        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\build\\intermediates\\merged_res\\debug\\font_bangers.xml.flat",
-        "source": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\src\\main\\res\\font\\bangers.xml"
+        "merged": "C:\\androidstudio\\app\\build\\intermediates\\merged_res\\debug\\anim_top_animation.xml.flat",
+        "source": "C:\\androidstudio\\app\\src\\main\\res\\anim\\top_animation.xml"
     },
     {
-        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "C:\\androidstudio\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_login_screen.xml.flat",
+        "source": "C:\\androidstudio\\app\\src\\main\\res\\layout\\activity_login_screen.xml"
     },
     {
-        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\build\\intermediates\\merged_res\\debug\\drawable_allschoolsubjects.jpg.flat",
-        "source": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\src\\main\\res\\drawable\\allschoolsubjects.jpg"
+        "merged": "C:\\androidstudio\\app\\build\\intermediates\\merged_res\\debug\\layout-w936dp_activity_login_screen.xml.flat",
+        "source": "C:\\androidstudio\\app\\src\\main\\res\\layout-w936dp\\activity_login_screen.xml"
     },
     {
-        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\build\\intermediates\\merged_res\\debug\\layout_professions_screen.xml.flat",
-        "source": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\src\\main\\res\\layout\\professions_screen.xml"
+        "merged": "C:\\androidstudio\\app\\build\\intermediates\\merged_res\\debug\\drawable_teacherpic1.png.flat",
+        "source": "C:\\androidstudio\\app\\src\\main\\res\\drawable\\teacherpic1.png"
     },
     {
-        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "C:\\androidstudio\\app\\build\\intermediates\\merged_res\\debug\\drawable_teacherpic4.png.flat",
+        "source": "C:\\androidstudio\\app\\src\\main\\res\\drawable\\teacherpic4.png"
     },
     {
-        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "C:\\androidstudio\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\androidstudio\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\androidstudio\\app\\build\\intermediates\\merged_res\\debug\\drawable_teacherpic6.png.flat",
+        "source": "C:\\androidstudio\\app\\src\\main\\res\\drawable\\teacherpic6.png"
     },
     {
-        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\build\\intermediates\\merged_res\\debug\\drawable_teacherpic2.png.flat",
-        "source": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\src\\main\\res\\drawable\\teacherpic2.png"
+        "merged": "C:\\androidstudio\\app\\build\\intermediates\\merged_res\\debug\\layout-w1240dp_activity_login_screen.xml.flat",
+        "source": "C:\\androidstudio\\app\\src\\main\\res\\layout-w1240dp\\activity_login_screen.xml"
     },
     {
-        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_sign_up_screen.xml.flat",
-        "source": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\src\\main\\res\\layout\\activity_sign_up_screen.xml"
+        "merged": "C:\\androidstudio\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\androidstudio\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
     },
     {
-        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\build\\intermediates\\merged_res\\debug\\layout-w1240dp_activity_login_screen.xml.flat",
-        "source": "C:\\Users\\User\\AndroidStudioProjects\\ListViewForMyApp2\\app\\src\\main\\res\\layout-w1240dp\\activity_login_screen.xml"
+        "merged": "C:\\androidstudio\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\androidstudio\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     }
 ]

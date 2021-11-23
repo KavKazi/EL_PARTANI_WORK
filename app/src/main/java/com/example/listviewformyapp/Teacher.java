@@ -12,25 +12,24 @@ public class Teacher {
             this.bitmap = bitmap;
         }
 
+    public String getName() {
+        return Name;
+    }
 
-        public String getName() {
-            return Name;
-        }
+    public void setName(String name) {
+        this.Name = name;
+    }
 
-        public void setName(String name) {
-            this.Name = name;
-        }
+    public String getClaas() {
+        return claas;
+    }
 
-        public String getClaas() {
-            return claas;
-        }
-
-        public void setClaas(String claas) {
-            this.claas = claas;
-        }
+    public void setClaas(String claas) {
+        this.claas = claas;
+    }
 
 
-  public android.graphics.Bitmap getBitmap() {
+    public android.graphics.Bitmap getBitmap() {
         return bitmap;
     }
 
@@ -39,5 +38,6 @@ public class Teacher {
     }
 
 
-    }
+}
+
 

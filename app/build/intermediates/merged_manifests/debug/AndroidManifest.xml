@@ -22,15 +22,11 @@
             android:name="com.example.listviewformyapp.signUpScreen"
             android:exported="false" />
         <activity
-            android:name="com.example.listviewformyapp.ui.login.LoginScreen"
-            android:exported="false"
-            android:label="@string/title_activity_login_screen" />
-        <activity
-            android:name="com.example.listviewformyapp.SplashScreen"
+            android:name="com.example.listviewformyapp.profession_scree"
             android:exported="false" />
         <activity android:name="com.example.listviewformyapp.MainActivity" />
         <activity
-            android:name="com.example.listviewformyapp.profession_scree"
+            android:name="com.example.listviewformyapp.SplashScreen"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

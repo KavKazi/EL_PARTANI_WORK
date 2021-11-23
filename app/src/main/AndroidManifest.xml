@@ -14,11 +14,11 @@
             android:exported="false" />
 
         <activity
-            android:name=".SplashScreen"
+            android:name=".profession_scree"
             android:exported="false" />
         <activity android:name=".MainActivity" />
         <activity
-            android:name=".profession_scree"
+            android:name=".SplashScreen"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
