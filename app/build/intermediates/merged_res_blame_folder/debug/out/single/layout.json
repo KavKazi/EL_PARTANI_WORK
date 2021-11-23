@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\androidstudio\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_sign_up_screen.xml",
+        "source": "C:\\androidstudio\\app\\src\\main\\res\\layout\\activity_sign_up_screen.xml"
+    },
+    {
+        "merged": "C:\\androidstudio\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\androidstudio\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\androidstudio\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\custom_layout.xml",
+        "source": "C:\\androidstudio\\app\\src\\main\\res\\layout\\custom_layout.xml"
+    },
+    {
+        "merged": "C:\\androidstudio\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_splash_screen.xml",
+        "source": "C:\\androidstudio\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\androidstudio\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\professions_screen.xml",
+        "source": "C:\\androidstudio\\app\\src\\main\\res\\layout\\professions_screen.xml"
+    },
+    {
+        "merged": "C:\\androidstudio\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login_screen.xml",
+        "source": "C:\\androidstudio\\app\\src\\main\\res\\layout\\activity_login_screen.xml"
+    },
+    {
+        "merged": "C:\\androidstudio\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\grid_profession_item.xml",
+        "source": "C:\\androidstudio\\app\\src\\main\\res\\layout\\grid_profession_item.xml"
+    }
+]
