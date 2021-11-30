@@ -1,9 +1,11 @@
-com/example/listviewformyapp/TeacherAdapter.java
- com.example.listviewformyapp.TeacherAdapter
+com/example/listviewformyapp/SplashScreen.java
+ com.example.listviewformyapp.SplashScreen
+ com.example.listviewformyapp.SplashScreen$1
 com/example/listviewformyapp/profession_item.java
  com.example.listviewformyapp.profession_item
-com/example/listviewformyapp/Teacher.java
- com.example.listviewformyapp.Teacher
+com/example/listviewformyapp/profession_scree.java
+ com.example.listviewformyapp.profession_scree
+ com.example.listviewformyapp.profession_scree$1
 com/example/listviewformyapp/databinding/GridProfessionItemBinding.java
  com.example.listviewformyapp.databinding.GridProfessionItemBinding
 com/example/listviewformyapp/databinding/ActivityMainBinding.java
@@ -24,12 +26,10 @@ com/example/listviewformyapp/databinding/ProfessionsScreenBinding.java
  com.example.listviewformyapp.databinding.ProfessionsScreenBinding
 com/example/listviewformyapp/databinding/ActivityLoginScreenBinding.java
  com.example.listviewformyapp.databinding.ActivityLoginScreenBinding
-com/example/listviewformyapp/profession_scree.java
- com.example.listviewformyapp.profession_scree
- com.example.listviewformyapp.profession_scree$1
+com/example/listviewformyapp/TeacherAdapter.java
+ com.example.listviewformyapp.TeacherAdapter
+com/example/listviewformyapp/Teacher.java
+ com.example.listviewformyapp.Teacher
 com/example/listviewformyapp/MainActivity.java
  com.example.listviewformyapp.MainActivity
  com.example.listviewformyapp.MainActivity$1
-com/example/listviewformyapp/SplashScreen.java
- com.example.listviewformyapp.SplashScreen
- com.example.listviewformyapp.SplashScreen$1

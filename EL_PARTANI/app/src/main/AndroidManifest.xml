@@ -9,18 +9,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.EL_PARTANI">
-        <activity
-            android:name=".TeacherAdapter"
-            android:exported="true" />
-        <activity
-            android:name=".Teacher"
-            android:exported="true" />
+
         <activity
             android:name=".Profession_item"
             android:exported="true" />
-        <activity
-            android:name=".ProfessionAdapter"
-            android:exported="true" />
+
         <activity
             android:name=".Profession_screen"
             android:exported="true" />

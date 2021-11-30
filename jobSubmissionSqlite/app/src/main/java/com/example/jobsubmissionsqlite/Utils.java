@@ -9,6 +9,7 @@ public class Utils {
     final static String DATABASE_NAME = "db_students";
 
     final static String TABLE_STUDENT = "tbl_student";
+    final static String TABLE_STUDENT_COL_ID = "student_id";
     final static String TABLE_STUDENT_COL_FIRSTNAME = "firstName";
     final static String TABLE_STUDENT_COL_LASTNAME = "lastName";
     final static String TABLE_STUDENT_COL_NUMCLASS= "numClass";
@@ -28,7 +29,8 @@ public class Utils {
 
     public static void createTables(SQLiteDatabase db){
         db.execSQL("create table if not exists "+Utils.TABLE_STUDENT+
-                " ("+TABLE_STUDENT_COL_FIRSTNAME+" INTEGER PRIMARY KEY AUTOINCREMENT ," +
+                " ("+TABLE_STUDENT_COL_ID+" INTEGER PRIMARY KEY AUTOINCREMENT ," +
+                ""+Utils.TABLE_STUDENT_COL_FIRSTNAME+"text, "+
                 ""+Utils.TABLE_STUDENT_COL_LASTNAME+" text, " +
                 ""+Utils.TABLE_STUDENT_COL_NUMCLASS+" text, "+Utils.TABLE_STUDENT_COL_AVGGRADE+" integer)");
 
@@ -74,5 +76,14 @@ public class Utils {
         }
         return betterAvrege;
     }
-    
+
+    public static void deletStudent( int id,SQLiteDatabase db ) {
+        Cursor cursor = db.rawQuery("select * from " + TABLE_STUDENT, null);
+        while (cursor.moveToNext()) {
+            if (cursor.getInt(0) == id) {
+                db.execSQL("delete from " + TABLE_STUDENT + " where " + TABLE_STUDENT_COL_ID + "=" + id);
+            }
+        }
+    }
+
 }

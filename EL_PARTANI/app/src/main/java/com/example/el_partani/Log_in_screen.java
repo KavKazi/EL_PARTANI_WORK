@@ -19,29 +19,46 @@ public class Log_in_screen extends AppCompatActivity {
 
     TabLayout tabLayout;
     ViewPager viewPager;
-    FloatingActionButton fb,google,twitter;
-    Button Login,signup;
-    float v=0;
+    FloatingActionButton fb, google, twitter;
+    Button log_in_button, signUpB;
+    float v = 0;
 
     @Override
-    protected void onCreate( Bundle savedInstanceState) {
+    protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_log_in_screen);
+
+        log_in_button = findViewById(R.id.log_in_button);
+        signUpB = findViewById(R.id.signUpB);
+        log_in_button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent2 = new Intent(Log_in_screen.this, Profession_screen.class);
+                startActivity(intent2);
+            }
+        });
+
+        signUpB.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent1 = new Intent(Log_in_screen.this, Profession_screen.class);
+                startActivity(intent1);
+            }
+        });
+
 
         tabLayout = findViewById(R.id.tab_layout);
         viewPager = findViewById(R.id.view_pager);
         fb = findViewById(R.id.fab_faceBook);
         google = findViewById(R.id.fab_google);
         twitter = findViewById(R.id.fab_twitter);
-        Login = findViewById(R.id.log_in_button);
-        signup = findViewById(R.id.signUpB);
 
 
         tabLayout.addTab(tabLayout.newTab().setText("Login"));
         tabLayout.addTab(tabLayout.newTab().setText("Sign up"));
         tabLayout.setTabGravity(TabLayout.GRAVITY_FILL);
 
-        final LogInAdapter adapter = new LogInAdapter(getSupportFragmentManager(),this,tabLayout.getTabCount());
+        final LogInAdapter adapter = new LogInAdapter(getSupportFragmentManager(), this, tabLayout.getTabCount());
         viewPager.setAdapter(adapter);
 
         viewPager.addOnPageChangeListener(new TabLayout.TabLayoutOnPageChangeListener(tabLayout));
@@ -65,21 +82,6 @@ public class Log_in_screen extends AppCompatActivity {
 
         //move to proffesion screen
 
-        Login.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent intent = new Intent(Log_in_screen.this,Profession_screen.class);
-                startActivity(intent);
-            }
-        });
-
-        signup.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent intent = new Intent(Log_in_screen.this,Profession_screen.class);
-                startActivity(intent);
-            }
-        });
 
     }
 }
