@@ -28,8 +28,7 @@ public class Log_in_screen extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_log_in_screen);
 
-        log_in_button = findViewById(R.id.log_in_button);
-        signUpB = findViewById(R.id.signUpB);
+       initElements();
         log_in_button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -47,8 +46,20 @@ public class Log_in_screen extends AppCompatActivity {
         });
 
 
+
+
+
+
+        //move to proffesion screen
+
+
+    }//endof_oncreate
+    private void initElements(){
         tabLayout = findViewById(R.id.tab_layout);
         viewPager = findViewById(R.id.view_pager);
+
+        log_in_button = findViewById(R.id.log_in_button);
+        signUpB = findViewById(R.id.signUpB);
         fb = findViewById(R.id.fab_faceBook);
         google = findViewById(R.id.fab_google);
         twitter = findViewById(R.id.fab_twitter);
@@ -78,10 +89,6 @@ public class Log_in_screen extends AppCompatActivity {
         google.animate().translationY(0).alpha(1).setDuration(1000).setStartDelay(600).start();
         twitter.animate().translationY(0).alpha(1).setDuration(1000).setStartDelay(800).start();
         tabLayout.animate().translationY(0).alpha(1).setDuration(1000).setStartDelay(100).start();
-
-
-        //move to proffesion screen
-
-
     }
+
 }

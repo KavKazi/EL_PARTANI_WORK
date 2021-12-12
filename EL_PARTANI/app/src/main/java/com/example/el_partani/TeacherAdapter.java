@@ -15,7 +15,6 @@ import android.widget.TextView;
 import java.util.List;
 
 public class TeacherAdapter extends ArrayAdapter<Teacher> {
-
     Context context;
     List<Teacher> objects;
 
@@ -34,7 +33,6 @@ public class TeacherAdapter extends ArrayAdapter<Teacher> {
         TextView Tname= (TextView)view.findViewById(R.id.Tname);
         TextView Tclaas= (TextView)view.findViewById(R.id.Tclaas);
         //ImageView Tavatar = (ImageView) view.findViewById(R.id.Tavatar);
-
         Teacher temp = objects.get(position);
 
         //Tavatar.setImageBitmap(temp.getBitmap());
@@ -42,5 +40,4 @@ public class TeacherAdapter extends ArrayAdapter<Teacher> {
         Tclaas.setText(temp.getClaas());
         return view;
     }
-
 }
