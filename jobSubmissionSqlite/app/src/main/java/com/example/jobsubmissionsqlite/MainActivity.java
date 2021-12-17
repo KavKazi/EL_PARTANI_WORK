@@ -20,11 +20,13 @@ public class MainActivity extends AppCompatActivity {
         return true;
     }
     public boolean onOptionsItemSelected(MenuItem item){
-        super onOptionsItemSelected(item);
+        super boolean b;
+        b = onOptionsItemSelected(item);
 
         int id = item.getItemId();
 
         if (id==R.id.allStudentScreen){
+
             //צריך לסיים פה הוא צריך לעבור ךמסך שמראה את כל התלמידים
         }
         return true;
